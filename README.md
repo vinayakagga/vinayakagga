@@ -14,7 +14,7 @@ I believe the best technical products emerge when engineers understand customer 
 
 ## My Approach
 
-### 🔄 From Engineering → Product Thinking
+###  From Engineering → Product Thinking
 
 Currently, I'm **reframing my projects** with product-first questions:
 - **What customer problem does this solve?**
@@ -49,11 +49,6 @@ Rather than building features in isolation, I'm learning to:
 - *Current Focus:* Analyzing adoption barriers, user feedback loops, and market fit
 - *Technical Stack:* C++, Embedded Systems
 
-**4. Pathgem** (Python)
-- *Working on product narrative and problem definition*
-
----
-
 ## Skills & Interests
 
 ### Technical Foundation
@@ -73,11 +68,11 @@ Rather than building features in isolation, I'm learning to:
 
 ## Learning Goals (2025-2026)
 
-✅ **Deepen product thinking** — Reframe existing projects through a PM lens  
-✅ **User research skills** — Conduct customer interviews and validate assumptions  
-✅ **Product frameworks** — Learn OKRs, PRDs, roadmapping methodologies  
-✅ **Build 1-2 projects with clear product narratives** — Document the "why" as much as the "what"  
-✅ **Develop cross-functional collaboration** — Work with designers, engineers, and stakeholders  
+ **Deepen product thinking** — Reframe existing projects through a PM lens  
+ **User research skills** — Conduct customer interviews and validate assumptions  
+ **Product frameworks** — Learn OKRs, PRDs, roadmapping methodologies  
+ **Build 1-2 projects with clear product narratives** — Document the "why" as much as the "what"  
+ **Develop cross-functional collaboration** — Work with designers, engineers, and stakeholders  
 
 ---
 
@@ -95,10 +90,10 @@ I want to be the bridge between what's technically possible and what users actua
 
 ## Currently Exploring
 
-- 📚 **Product Frameworks:** OKRs, Jobs-to-be-Done, Design Thinking
-- 🎯 **Customer Research:** How to identify and validate real problems
-- 🛠️ **Product Tools:** Figma, Miro, Notion for roadmapping
-- 💡 **Case Studies:** Analyzing how successful TPMs approach product-engineering tradeoffs
+-  **Product Frameworks:** OKRs, Jobs-to-be-Done, Design Thinking
+-  **Customer Research:** How to identify and validate real problems
+-  **Product Tools:** Figma, Miro, Notion for roadmapping
+-  **Case Studies:** Analyzing how successful TPMs approach product-engineering tradeoffs
 
 ---
 
